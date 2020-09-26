@@ -3,13 +3,14 @@
 ## Overview of Project
 
 ### Purpose
-The playwright Louise has estimated that it will cost her around $10,000 to put on her first play, Fever. She would like to crowdfund the startu-up capital needed for the play using the web platform Kickstarter. Louise has asked our consulting firm to review Kickstarter data to identify whether there are significant factors that might influence the outcome of her Kickstarter campaign. Specifically, Louise wants to know when to launch her campaign, and what her target funding goal should be.
+The playwright Louise has estimated that it will cost her around $10,000 to put on her first play, "Fever." She would like to crowdfund the startu-up capital needed for the play using the web platform Kickstarter. Louise has asked our consulting firm to review Kickstarter data to identify whether there are significant factors that might influence the outcome of her Kickstarter campaign. Specifically, Louise wants to know when to launch her campaign, and what her target funding goal should be.
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-![Outcomes Based on Date](Theater_Outcomes_vs_Launch.png)
+The project team reviewed Kickstarter data from 2009-2017, analyzing season trends regarding Kickstarer project success. By filtering out all Kickstarter projects except for Plays, the project team was able to identify that there is a significantly greater chance for plays to be kickstarted successfully if the campaign is launched during the Summer months. The months of May, June, and July are the months with the most successful project launches. As a result of this analysis, the team recommends that Louise should launch her Kickstarter campaign during the month of May. Please refer to the following graph to see the relationship between Kickstarter project outcomes and the calendar month in which the project is launched:
+![Figure 1. Outcomes Based on Date](Theater_Outcomes_vs_Launch.png)
 ### Analysis of Outcomes Based on Goals
-![Outcomes Based on Goal](Outcomes_vs_Goals.png)
+![Figure 2. Outcomes Based on Goal](Outcomes_vs_Goals.png)
 ### Challenges and Difficulties Encountered
 
 ## Results
