@@ -5,10 +5,10 @@ The playwright Louise has estimated that it will cost her around $10,000 to put 
 ## Analysis and Challenges
 ### Analysis of Outcomes Based on Launch Date
 The project team reviewed Kickstarter data from 2009-2017, analyzing season trends regarding Kickstarer project success. By filtering out all Kickstarter projects except for Plays, the project team was able to identify that there is a significantly greater chance for plays to be kickstarted successfully if the campaign is launched during the Summer months.
-![Figure 1. Outcomes Based on Date](Theater_Outcomes_vs_Launch.png)
+![Figure 1. Outcomes Based on Date](resources/Theater_Outcomes_vs_Launch.png)
 ### Analysis of Outcomes Based on Goals
 The project team reviewed over 1000 play-specific projects, analyzing trends regarding Kickstarer project success. While this data shows some significant fluctuations, there are clear trendlines which indicate that the larger the goal price, the more likely the project is to fail.
-![Figure 2. Outcomes Based on Goal](Outcomes_vs_Goals.png)
+![Figure 2. Outcomes Based on Goal](resources/Outcomes_vs_Goals.png)
 ### Challenges and Difficulties Encountered
 #### What are some limitations of this dataset?
 The provided dataset does not extend beyond 2017, so the project team was unable to identify whether any significant trends have occurred during recent years. Additionally, these trends may have been negatively impacted by the pandemic as many people are unable to attend plays in the theatre. Additionally, there may be other datapoints which would significant inform the success rate of projects. For example, the city of the creator may be a significant indicator of success - plays may be more likely to receive funding in cities like Chicago or New York that have well-established art scenes. Additionally, the genre and subject-matter of the plays may have an impact on the success rate. For example, modern renditions of Shakespearean plays may be more likely to receive support than experimental improv theatre. 
