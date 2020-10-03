@@ -21,6 +21,7 @@ The months of May, June, and July are the months with the most successful projec
 <li> For the greatest chance of success, Louise should launch her Kickstarter campaign during the month of May. 
 <li> Theatre projects have the lowest chance of success if they are launched in December, Louise should avoid launching her campaign then.
 </ol>
+
 #### What can you conclude about the Outcomes based on Goals?
 Louise identified an original projected budget of $10,000. The project team is uncertain if this budget truly reflects a minimal viable project threshold, or if this is a midpoint estimate value. The project team has identified a strategic practice on Kickstarter projects is to set a low goal, and to have stretch goals to incentivize further giving beyond the goal amount. If Louise is able, she should identify a minimum viable project goal amount. Since Kickstarter has a policy where the creator gets nothing when a project fails, it may be advisable to set the initial goal below $5000. If Louise believes that $10,000 is truly the minimum amount that she needs, she should be aware that there is a greater risk of the project not successfully getting funded. Specifically: 
 <ol>
